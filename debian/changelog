@@ -1,3 +1,9 @@
+dh-exec (0.14pexip1) pexip; urgency=low
+
+  * Prepare Pexip packaging
+
+ -- John-Mark Bell <jmb@pexip.com>  Wed, 03 Jun 2015 23:47:10 +0000
+
 dh-exec (0.14) unstable; urgency=medium
 
   * Make dh-exec-install-rename's error messages helpful, patch from
